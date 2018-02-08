@@ -1,2 +1,2 @@
 # pyAlgo
-algorithms tutorial with off python instrcutions
+algorithms tutorial with off python instructions
